@@ -1,0 +1,2368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"convertCalendarItem"
+			],
+			[
+				"cal",
+				"calendarItemContainer"
+			],
+			[
+				"pla-",
+				"planning-template-calendaritem-week-marker"
+			],
+			[
+				"us",
+				"useOffsets"
+			],
+			[
+				"filter",
+				"filterContainer"
+			],
+			[
+				"readAndS",
+				"readAndSetOffsetDate"
+			],
+			[
+				"readA",
+				"readAndSetOffsetDate"
+			],
+			[
+				"sel",
+				"selectionCollection"
+			],
+			[
+				"displ",
+				"displayZero"
+			],
+			[
+				"enableS",
+				"enableSettingsMenu"
+			],
+			[
+				"deb",
+				"debouncedUpdateSelectionMarker"
+			],
+			[
+				"qu",
+				"queueParentCardCountUpdate"
+			],
+			[
+				"fil",
+				"filteredLabels"
+			],
+			[
+				"def",
+				"defaultLabels"
+			],
+			[
+				"item",
+				"itemsToPropagate"
+			],
+			[
+				"minDa",
+				"minDateChildren"
+			],
+			[
+				"dep",
+				"depthSortedItems"
+			],
+			[
+				"ac",
+				"activeElement"
+			],
+			[
+				"labli",
+				"labelsList"
+			],
+			[
+				"filt",
+				"filteredCards"
+			],
+			[
+				"fi",
+				"filteredCards"
+			],
+			[
+				"modelS",
+				"modelDataSaveQueue"
+			],
+			[
+				"check",
+				"checkActiveAddButton"
+			],
+			[
+				"showPre",
+				"showPreviewTimeout"
+			],
+			[
+				"sh",
+				"showCardResultLoader"
+			],
+			[
+				"carinp",
+				"cardInput"
+			],
+			[
+				"selectedLabe",
+				"selectedLabelId"
+			],
+			[
+				"get",
+				"getLabelOptions"
+			],
+			[
+				"renderA",
+				"renderAssignees"
+			],
+			[
+				"navi",
+				"navigationModules"
+			],
+			[
+				"nav",
+				"navigationModule"
+			],
+			[
+				"addAc",
+				"addActivity"
+			],
+			[
+				"typea",
+				"typeaheadOrId"
+			],
+			[
+				"updateCa",
+				"updateCardPreviewPosition"
+			],
+			[
+				"inP",
+				"inPast"
+			],
+			[
+				"exa",
+				"expandCardListKey"
+			],
+			[
+				"_lo",
+				"_loadAllByCalendarItem"
+			],
+			[
+				"pixelsP",
+				"pixelsPerCard"
+			],
+			[
+				"calendarI",
+				"calendarItems"
+			],
+			[
+				"Gene",
+				"GenericInputField"
+			],
+			[
+				"pixel",
+				"pixelsFromLeft"
+			],
+			[
+				"en",
+				"ensureVisibleScrollTop"
+			],
+			[
+				"tolf",
+				"toolbarFullscreenToggle"
+			],
+			[
+				"dis",
+				"displayEditorKindSelector"
+			],
+			[
+				"set",
+				"setScaleAfterResize"
+			],
+			[
+				"toolbarsc",
+				"toolbarScaleMenuItemList"
+			],
+			[
+				"pix",
+				"pixelsPerDay"
+			],
+			[
+				"button",
+				"toolbarScaleMenuButton"
+			],
+			[
+				"onsc",
+				"onScaleMenuItemClicked"
+			],
+			[
+				"hide",
+				"hideMenuItems"
+			],
+			[
+				"scme",
+				"toolbarScaleMenuItemList"
+			],
+			[
+				"eff",
+				"effectiveSortOrder"
+			],
+			[
+				"up",
+				"updateTodayMarker"
+			],
+			[
+				"prev",
+				"previousItem"
+			],
+			[
+				"ge",
+				"getPreviousVisibleItem"
+			],
+			[
+				"defer",
+				"updateDeferred"
+			],
+			[
+				"ref",
+				"refreshFromItem"
+			],
+			[
+				"calendarVi",
+				"calendarVisibleStartDate"
+			],
+			[
+				"stop",
+				"stopAllMouseActions"
+			],
+			[
+				"getD",
+				"getDateRenderAttrs"
+			],
+			[
+				"scroll",
+				"calendarScrollContainer"
+			],
+			[
+				"grid",
+				"calendarItemGrid"
+			],
+			[
+				"cl",
+				"clientY"
+			],
+			[
+				"u",
+				"updateScrollPositions"
+			],
+			[
+				"setScro",
+				"setScrollTop"
+			],
+			[
+				"bycid",
+				"getListElementByCid"
+			],
+			[
+				"rem",
+				"remainingWidth"
+			],
+			[
+				"durin",
+				"durationInput"
+			],
+			[
+				"startD",
+				"startDateInput"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"callist",
+				"calendarListPane"
+			],
+			[
+				"in",
+				"inputsVisible"
+			],
+			[
+				"form",
+				"formatDate"
+			],
+			[
+				"update",
+				"updatePlanningCookieData"
+			],
+			[
+				"an",
+				"ancestorId"
+			],
+			[
+				"calendarIte",
+				"calendarItemByCid"
+			],
+			[
+				"unper",
+				"unpersistedCollection"
+			],
+			[
+				"getH",
+				"getHumanizedDuration"
+			],
+			[
+				"prcon",
+				"projectstepContainer"
+			],
+			[
+				"ex",
+				"existingId"
+			],
+			[
+				"getL",
+				"getListElementByCid"
+			],
+			[
+				"_ch",
+				"_checkItemMaxStartDate"
+			],
+			[
+				"container",
+				"listpaneContainer"
+			],
+			[
+				"getcid",
+				"getListElementByCid"
+			],
+			[
+				"getci",
+				"getListElementByCid"
+			],
+			[
+				"listp",
+				"listpaneCalendarItemList"
+			],
+			[
+				"lis",
+				"listpaneCalendarItemList"
+			],
+			[
+				"rel",
+				"relativeElement"
+			],
+			[
+				"queu",
+				"queueParentDateUpdate"
+			],
+			[
+				"getN",
+				"getNormalizedState"
+			],
+			[
+				"ini",
+				"initializeDatePickers"
+			],
+			[
+				"cre",
+				"createCalendarItemFromEditor"
+			],
+			[
+				"ednamein",
+				"toolbarEditorNameInput"
+			],
+			[
+				"getls",
+				"getListElementByCid"
+			],
+			[
+				"date",
+				"datepickerId"
+			],
+			[
+				"calilist",
+				"listpaneCalendarItemList"
+			],
+			[
+				"pre",
+				"previousSibling"
+			],
+			[
+				"ediname",
+				"listpaneEditorNameInput"
+			],
+			[
+				"setEd",
+				"setEditorDuration"
+			],
+			[
+				"see",
+				"setEditorEndDate"
+			],
+			[
+				"setE",
+				"setEditorDuration"
+			],
+			[
+				"par",
+				"parseHumanizedDate"
+			],
+			[
+				"enddate",
+				"listpaneEditorEndDateInput"
+			],
+			[
+				"no",
+				"normalizeEditorDurationsAndDates"
+			],
+			[
+				"ed",
+				"editorValues"
+			],
+			[
+				"list",
+				"listpaneContainer"
+			],
+			[
+				"li",
+				"listpaneContainer"
+			],
+			[
+				"gra",
+				"grabbedItem"
+			],
+			[
+				"ad",
+				"addedCalendarItemsList"
+			],
+			[
+				"load",
+				"_loadAllByProject"
+			],
+			[
+				"loa",
+				"loadAllByCurrentProject"
+			],
+			[
+				"sc",
+				"scrollEventIntoView"
+			],
+			[
+				"ch",
+				"checkPostButtonDisabledState"
+			],
+			[
+				"projects",
+				"projectstepCollection"
+			],
+			[
+				"getC",
+				"getCacheKeyForLoad"
+			],
+			[
+				"elem",
+				"elementsToToggle"
+			],
+			[
+				"getPos",
+				"getPosterAvatarURL"
+			],
+			[
+				"Con",
+				"ConversationPostView"
+			],
+			[
+				"l",
+				"loadProjectOverviewPosts"
+			],
+			[
+				"_mer",
+				"_mergeCreateResponse"
+			],
+			[
+				"comm",
+				"commentModelInstance"
+			],
+			[
+				"exp",
+				"expandingTextareaCloneCSS"
+			],
+			[
+				"even",
+				"eventPriorityMap"
+			],
+			[
+				"tog",
+				"toggleDateInList"
+			],
+			[
+				"mod",
+				"modulesBasePath"
+			],
+			[
+				"ji",
+				"jinja_response"
+			],
+			[
+				"met",
+				"metaListeners"
+			],
+			[
+				"las",
+				"lastRowSelected"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "threepio.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "examples/shader-explosion/main.js",
+			"settings":
+			{
+				"buffer_size": 3517,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fredrikw/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 873,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "examples/shader-explosion/index.html",
+			"settings":
+			{
+				"buffer_size": 9718,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Bria.sublime-build",
+	"command_palette":
+	{
+		"height": 247.0,
+		"selected_items":
+		[
+			[
+				"js",
+				"Format: Javascript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"reposi",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"addre",
+				"Package Control: Add Repository"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"ssjavasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ssdif",
+				"Set Syntax: Diff"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"refres",
+				"Preferences: Browse Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"file",
+				"Open File Navigator"
+			],
+			[
+				"filena",
+				"Open File Navigator"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"ssjps",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"ssjsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"ssyjsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"set synjad",
+				"Set Syntax: Jade"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"rebui",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"reb",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"rebuil",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rope",
+				"Rope: New Project"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 282.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fredrikw/Documents/projects/threepio/examples/shader-explosion.js",
+		"/Users/fredrikw/Documents/projects/threepio/vendor/three.js/build/three.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning-template/js/planning-template.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/views/widgets/details-cardlist.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/planning-calendar.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning-template/template/planningTemplateCalendarTmpl.hbs",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/templates/cardEditor.hbs",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/templates/calendarListPane.hbs",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/templates/calendarListPaneItem.hbs",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/test/tests-multiSelectCollection.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/test/tests-util.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/test/utils.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/planning-util.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/control/planning-control-base.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/control/planning-control-fn.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/templates/cardEditorResultItem.hbs",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/planning-listpane.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/planning-multiSelectCollection.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/planning-calendar-interaction.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/views/detailsPane.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/messages/general/planning_template_tab.html",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning-template/template/planningTemplateContainerTmpl.hbs",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning-template/template/planningTemplateListTmpl.html",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/templates/planningToolbar.hbs",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/planning-toolbar.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning-template/less-neue/planning-template-general.less",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning-template/less-neue/planning-template.less",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/grunt.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning-template/grunt.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/pp-planning.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning-template/js/planning-template-module.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/views/widgets/details-cardeditor.js",
+		"/Users/fredrikw/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/fredrikw/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/fredrikw/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/common/js/pp-typeahead.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/detailswidget/js/details-coversation.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/detailswidget/template/conversationWidgetTmpl.html",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/less/planning-toolbar.less",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/less/planning-variables.less",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/pp_fw/less/categories.less",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/hub/js/hub.module.cards.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/views/activityDetailsPane.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/templates/calendarItem.hbs",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/common/js/main.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/common/grunt.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/actions/js/teamboards/views/topNavigationView.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/documents/template/details/details_view.html",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/documents/js/list/views/list.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/messages/general/overview_header.html",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/hub/js/hub.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/hub/js/hub.module.activities2.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/test/tests-hub.module.activities2.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/views/multiSelectDetailsPane.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/views/projectstepDetailsPane.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/test/tests-calendar.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/control/planning-control-dateindex.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/control/planning-control-index.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/test/tests-planning.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/test/index.html",
+		"/Volumes/pw-next/fredrikw/grunt-builds/hub.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/test/qunit-1.10.0.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/planning-timeline.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/test/testRunner.html",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/views/widgets/details-statusreport.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/views/statusReportDetailsPane.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/test/tests-listpane.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/views/widgets/details-dateduration.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/documents/grunt.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/hub/js/hub.model.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/templates/cardList.hbs",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/hub/js/hub.module.base.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/hub/js/hub.module.resources.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/documents/js/detailsview/details-events.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/api/planning-api-fn-dates.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/hub/js/hub.module.cards.mini.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/api/planning-api-index.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/api/planning-api-base.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/templates/cardSummary.hbs",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/views/widgets/details-cardsummary.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/less/planning-detailspane.less",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/api/planning-api-fn.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/api/planning-api-fn-date.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/api/planning-api-date.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/api/planning-index.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/hub/js/hub.module.activities.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/actions/js/views/widgets/details-activity.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/templates/cardItem.hbs",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/templates/cardPreview.hbs",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/framewerk/js/pp-navigation.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/user_settings/dist/settings.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/conversations/[object Object]",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/detailswidget/js/details-events.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/actions/grunt.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/conversations/grunt.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/user_settings/dist/settings.css",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/utils/searchbox.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/common/less/common-buttons.less",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/js/planning-router.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/messages/general/activities_start.html",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/framewerk/grunt.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/actions/js/actions.init.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/ajaxTabs.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/actions/js/views/widgets/details-events.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/framewerk/js/pp-navigation-planning.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/framewerk/js/pp-navigation-boards.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/src/cl_light_box.py",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/framewerk/js/pp-naivgation-boards.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/messages/general/container.html",
+		"/Volumes/pw-next/fredrikw/core/src/bs_utils.py",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/container.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/framewerk/pp-navigation.js",
+		"/Users/fredrikw/Library/Application Support/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning/js/blueant.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning/js/views/blueAntActivityCalendarView.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning/js/views/blueAntProjectStepCalendarView.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning/js/lookahead.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning/js/views/listPane.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning/js/planning.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/common/js/pp-datepicker.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/less/planning-calendar.less",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/hub/js/hub.module.boards.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/templates/activityDetailsPane.hbs",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/templates/activityDetailsDescription.hbs",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/powerbar/web_notifications.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/actions/js/views/boardSettingsDropdownView.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/detailswidget/js/details-menu.js",
+		"/Volumes/pw-next/fredrikw/frontend/web/client_src/scr/actions/js/views/widgets/details-copyboard.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"**/planning2/**/*.js",
+			"**/frontend/**/*.js",
+			"**/frontend/**/*.less",
+			"**/frontend/**/*.js",
+			"**/planning2/**/*.js",
+			"**/documents/**/*.js",
+			"**/documents/**/*.html",
+			"**/documents/**/*.htm",
+			"**/documents/**/*.js",
+			"**/planning2/**/*.js",
+			"**/actions/**/*.js",
+			"**/planning2/**/*.js",
+			"**/user_settings/**/*.js",
+			"**/frontend/**/*.py",
+			"**/frontend/**/*.html",
+			"**/frontend/**/*.js, **/frontend/**/*.html",
+			"**/planning/**/*.js",
+			"**/*.py",
+			"**/*.html",
+			"**/frontend/**/*.js",
+			"**/frontend/**/*.html",
+			"**/frontend/**/*.js",
+			"**/actions/**/*.js",
+			"**/actyions/**/*.js",
+			"**/frontend/**/*.js",
+			"**/planning/**/*.js",
+			"**/planning2/**/*.js",
+			"**/actions/**/*.js",
+			"**/planning/**/*.js",
+			"**/planning2/**/*.js",
+			"**/actions/**/*.js",
+			"**/frontend/**/*.js",
+			"**/planning2/**/*.js",
+			"**/planning/**/*.js",
+			"**/actions/**/*.js",
+			"**/planning2/**/*.js",
+			"**/frontend/**/*.js",
+			"**/planning2/**/*.js",
+			"**/actions/**/*.js",
+			"**/frontend/**/*.js",
+			"**/planning/**/*.js",
+			"**/frontend/**/*.js,**/frontend/**/*.html",
+			"**/frontend/**/*.js",
+			"**/actions/**/*.js",
+			"**/frontend/**/*.css",
+			"**/frontend/**/*.csss",
+			"**/frontend/**/*.less",
+			"**/frontend/**/*.js",
+			"**/planning2/**/*.js",
+			"**/frontend/**/*.js",
+			"**/planning/**/*.js",
+			"**/frontend/**/*.js",
+			"**/frontend(**/*.js",
+			"**/planning2/**/*.js",
+			"**/frontend/**/*.html",
+			"**/*.less",
+			"**/projectwall/**/*.less",
+			"**/planning/**/*.js",
+			"**/planning2/**/*.js",
+			"**/frontend/**/*.js",
+			"**/frontend/**/*.html",
+			"**/frontend/**/*.js",
+			"**/planning2/**/*.js",
+			"**/planning/**/*.js",
+			"**/planning2/**/*.js",
+			"**/frontend/**/*.js",
+			"**/planning2/**/*.js",
+			"**/planning/**/*.js",
+			"**/planning2/**/*.js",
+			"**/frontend/**/*.hbs",
+			"**/frontend/**/*.js",
+			"**/planning2/**/*.js",
+			"**/frontend/**/*.js",
+			"**/planning2/**/*.js",
+			"**/frontend/**/*.js",
+			"**/planning2/**/*.js",
+			"**/frontend/**/*.js",
+			"**/planning/**/*.js",
+			"**/planning2/**/*.js",
+			"**/frontend/**/*.js",
+			"**/public/**/*.js",
+			"**/frontend/**/*.js",
+			"**/frontend/**/*.html",
+			"**/frontend/**/*.less",
+			"**/planning2/**/*.js",
+			"**/frontend/**/*.js",
+			"**/common/**/*.js",
+			"**/frontend/**/*.js",
+			"**/detailswidget/**/*.js",
+			"**/frontend/**/*.py",
+			"**/planning/**/*.js",
+			"**/planning2/**/*.js",
+			"**/frontend/**/*.js",
+			"**/planning2/**/*.js",
+			"**/frontend/**/*.js",
+			"**/frontend/**/*.html",
+			"**/frontend/**/*.js",
+			"**/frontend/**/*.html",
+			"**/frontend/**/*.js",
+			"**/frontend/**/*.py",
+			"**/frontend/**/*.js",
+			"**/frontend/**/*.html",
+			"**/frontend/**/*.js",
+			"**/frontend/**/*.*",
+			"**/frontend/**/*.html",
+			"**/frontend/**/*.js",
+			"**/documents/**/*.js",
+			"**/hub/**/*.js",
+			"**/actions/**/*.html",
+			"**/actions/**/*.js",
+			"**/frontend/**/*.js",
+			"**/frontend/**/*.html",
+			"**/frontend/**/*.py",
+			"**/planning/**/*.py",
+			"**/planning/**/*.js",
+			"**/frontend/**/*.js",
+			"**/planning/**/*.js",
+			"**/frontend/**/*.html",
+			"**/frontend/**/*.js",
+			"**/frontend/**/*.*",
+			"**/frontend/**/*.js",
+			"*.html",
+			"**/admin/**/*.html",
+			"**/frontend/**/*.html",
+			"**/frontend/**/*.js",
+			"**/*.py",
+			"**/frontend/**/*.py",
+			"**/frontend/**/*.js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bkgScene",
+			"scale",
+			"version",
+			"input",
+			".blur",
+			"listpanePlaceholderItem",
+			"mousemove",
+			"lock",
+			"timeout",
+			"getItemRenderAttrs",
+			"height:",
+			"onCalendarDateInputClick",
+			"onItemMouseUp",
+			"selectEvent",
+			"isEditing",
+			"selectEvent",
+			"onItemMouseDown",
+			"onCalendarDateInputClick",
+			"onEditLockChange",
+			"updateSelectionMarker",
+			"onSelectedItemChanged",
+			".enter",
+			"toolbarHeight",
+			"resize:",
+			".render",
+			"resizeListPane",
+			"resize:",
+			"onBrowserResize",
+			"onIndexUpdated",
+			"setupCalendarItemDatePicker",
+			"change",
+			"calendaritem-date-inner",
+			"blur",
+			"onCalendarDateInputChanged",
+			"onCalendarItemReplaced",
+			"meta.unper",
+			"updateVisible",
+			".toggle",
+			"ChangeKindWidget",
+			"convert",
+			"pp.planning.calendar",
+			"opende",
+			"constants.expandCardListKey",
+			"pp.hub.module.userstore",
+			"pp.planning.calendar.constants.expandCardListKey",
+			"pp.planning.calendar",
+			"constants.CalendarVisible",
+			"constants.calendarvisible",
+			"openDetailsPaneForSelection",
+			"useOffsets",
+			"pp.planning.calendar",
+			"onCardAdd",
+			"onCardChange",
+			"'cardsChange'",
+			"fetchProgressStats",
+			"fetchProgessStats",
+			"fetch",
+			"debouncedUpdateSelectionMarker",
+			"op",
+			"debouncedUpdateSelectionMarker",
+			"closeCurrentDetailsPane",
+			"pp.planning.calendar",
+			"onCloseClick",
+			"close",
+			"closede",
+			"opende",
+			"opendde",
+			"close",
+			"opendeta",
+			"planning-template-calendaritems",
+			"duedate",
+			"renderItem",
+			"addNewCalendarItem",
+			"onItemAdded",
+			"selected",
+			"pp.planning.calendar.updateCalendarIt",
+			"updateCalendarItems",
+			"pp.planning.calendar.updateCalendarItems",
+			"enq",
+			"enqueueUpdateCalendarItem",
+			"onCalendarItemGroupingChanged",
+			"onCalendarItemDateChanged",
+			"move",
+			"[data.scale]",
+			"getItemRenderAttrs",
+			"pp",
+			"renderboards",
+			"toggle",
+			"onFilterInputClearButtonClicked",
+			"getRenderAttrs",
+			"applytem",
+			"onToggleElementClicked",
+			"onCardFilterButtonClicked",
+			"selectLabel",
+			"onCalendarDateInputChanged",
+			"readAndSetOffsetDate",
+			"endDateinput",
+			"updateDateAndDuration",
+			"readAndSetOffsetDate",
+			"readAndSetDuration",
+			"onCalendarDurationInputChanged",
+			"onCalendarDateInputClick",
+			"getCalendarItemRenderAttrs",
+			"pp.planning.calendar.Mult",
+			"lanning.calendar.MultiSelectC",
+			"MultiSelectCollection",
+			"pp.planning.calendar.MultiSelec",
+			"this.hierachyCh",
+			"sendh",
+			"pp.planning.calendar.data.selectedItems",
+			"onToggleSelect",
+			"openDetailsPaneForSelection",
+			"calendar.",
+			"resizelist",
+			"onCalendarMoved",
+			".resize",
+			"publishcalendarmoved",
+			"calendarMoved",
+			"CalendarMoved",
+			"oncalendarmoved",
+			"this.resize",
+			"resize:",
+			"this.resize",
+			"calendarmoved",
+			"resizeListPane",
+			"listpane.resize",
+			"pp.planning.listpane.resize",
+			"listpane.resize"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"planning.control.",
+			"next()",
+			"res.redirect",
+			"",
+			"mn",
+			"mx",
+			"mox",
+			"mn",
+			"super+"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "threepio.sublime-project",
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": false
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"boss": true,
+								"browser": true,
+								"curly": true,
+								"debug": true,
+								"eqeqeq": true,
+								"eqnull": true,
+								"evil": true,
+								"immed": true,
+								"jquery": true,
+								"latedef": true,
+								"laxcomma": true,
+								"loopfunc": true,
+								"newcap": true,
+								"noarg": true,
+								"sub": true,
+								"undef": true,
+								"unused": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501",
+								"E111",
+								"E121"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+								"base",
+								"taskMgr",
+								"globalClock"
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 6.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"javascript": "/usr/local/bin/node"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "examples/shader-explosion/main.js",
+					"settings":
+					{
+						"buffer_size": 3517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3517,
+								3517
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": false
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"boss": true,
+								"browser": true,
+								"curly": true,
+								"debug": true,
+								"eqeqeq": true,
+								"eqnull": true,
+								"evil": true,
+								"immed": true,
+								"jquery": true,
+								"latedef": false,
+								"laxcomma": true,
+								"loopfunc": true,
+								"newcap": true,
+								"noarg": true,
+								"sub": true,
+								"undef": true,
+								"unused": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501",
+								"E111",
+								"E121"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+								"base",
+								"taskMgr",
+								"globalClock"
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 6.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"javascript": "/usr/local/bin/node"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 1778.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/fredrikw/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								440,
+								440
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": false
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"boss": true,
+								"browser": true,
+								"curly": true,
+								"debug": true,
+								"eqeqeq": true,
+								"eqnull": true,
+								"evil": true,
+								"immed": true,
+								"jquery": true,
+								"latedef": true,
+								"laxcomma": true,
+								"loopfunc": true,
+								"newcap": true,
+								"noarg": true,
+								"sub": true,
+								"undef": true,
+								"unused": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501",
+								"E111",
+								"E121"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+								"base",
+								"taskMgr",
+								"globalClock"
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 6.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"javascript": "/usr/local/bin/node"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "examples/shader-explosion/index.html",
+					"settings":
+					{
+						"buffer_size": 9718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1598,
+								1598
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": false
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"boss": true,
+								"browser": true,
+								"curly": true,
+								"debug": true,
+								"eqeqeq": true,
+								"eqnull": true,
+								"evil": true,
+								"immed": true,
+								"jquery": true,
+								"latedef": false,
+								"laxcomma": true,
+								"loopfunc": true,
+								"newcap": true,
+								"noarg": true,
+								"sub": true,
+								"undef": true,
+								"unused": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501",
+								"E111",
+								"E121"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+								"base",
+								"taskMgr",
+								"globalClock"
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 6.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"javascript": "/usr/local/bin/node"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4508.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Volumes/pw-next/fredrikw/core/src":
+	{
+		"height": 98.0
+	},
+	"output.9o:///Volumes/pw-next/fredrikw/frontend/web/client_src/scr/common/js":
+	{
+		"height": 98.0
+	},
+	"output.9o:///Volumes/pw-next/fredrikw/frontend/web/client_src/scr/hub/js":
+	{
+		"height": 98.0
+	},
+	"output.9o:///Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning-template/less-neue":
+	{
+		"height": 104.0
+	},
+	"output.9o:///Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning/js/views":
+	{
+		"height": 98.0
+	},
+	"output.9o:///Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/less":
+	{
+		"height": 98.0
+	},
+	"output.9o:///Volumes/pw-next/fredrikw/frontend/web/client_src/scr/planning2/templates":
+	{
+		"height": 98.0
+	},
+	"output.9o:///Volumes/pw-next/fredrikw/frontend/web/messages/general":
+	{
+		"height": 98.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 98.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 98.0
+	},
+	"output.exec":
+	{
+		"height": 135.0
+	},
+	"output.find_results":
+	{
+		"height": 86.0
+	},
+	"output.git":
+	{
+		"height": 86.0
+	},
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"plautil",
+				"frontend/web/client_src/scr/planning2/js/planning-util.js"
+			],
+			[
+				"plalistpa",
+				"frontend/web/client_src/scr/planning2/js/planning-listpane.js"
+			],
+			[
+				"plannhtml",
+				"frontend/web/messages/general/planning_template_tab.html"
+			],
+			[
+				"userstore",
+				"frontend/web/client_src/scr/hub/js/hub.module.userstore.js"
+			],
+			[
+				"listpane",
+				"frontend/web/client_src/scr/planning2/js/planning-listpane.js"
+			],
+			[
+				"plan2",
+				"frontend/web/client_src/scr/planning2/grunt.js"
+			],
+			[
+				"planning-template-calendar.js",
+				"frontend/web/client_src/scr/planning-template/js/planning-template-calendar.js"
+			],
+			[
+				"placalendar",
+				"frontend/web/client_src/scr/planning2/js/planning-calendar.js"
+			],
+			[
+				"platemless",
+				"frontend/web/client_src/scr/planning-template/less-neue/planning-template-general.less"
+			],
+			[
+				"platempmod",
+				"frontend/web/client_src/scr/planning-template/js/planning-template-module.js"
+			],
+			[
+				"decared",
+				"frontend/web/client_src/scr/planning2/js/views/widgets/details-cardeditor.js"
+			],
+			[
+				"pptypeh",
+				"frontend/web/client_src/scr/common/js/pp-typeahead.js"
+			],
+			[
+				"planningcontrol",
+				"frontend/web/client_src/scr/planning2/js/control/planning-control-fn.js"
+			],
+			[
+				"conversationwidgettmpl",
+				"frontend/web/client_src/scr/detailswidget/template/conversationWidgetTmpl.html"
+			],
+			[
+				"detcover",
+				"frontend/web/client_src/scr/detailswidget/js/details-coversation.js"
+			],
+			[
+				"plato",
+				"frontend/web/client_src/scr/planning2/js/planning-toolbar.js"
+			],
+			[
+				"detcared",
+				"frontend/web/client_src/scr/planning2/js/views/widgets/details-cardeditor.js"
+			],
+			[
+				"pplanning",
+				"frontend/web/client_src/scr/planning2/js/pp-planning.js"
+			],
+			[
+				"ppcalendar",
+				"frontend/web/client_src/scr/planning2/js/planning-calendar.js"
+			],
+			[
+				"plalistp",
+				"frontend/web/client_src/scr/planning2/js/planning-listpane.js"
+			],
+			[
+				"placalen",
+				"frontend/web/client_src/scr/planning2/js/planning-calendar.js"
+			],
+			[
+				"pl2grunt",
+				"frontend/web/client_src/scr/planning2/grunt.js"
+			],
+			[
+				"categories",
+				"frontend/web/client_src/scr/pp_fw/less/categories.less"
+			],
+			[
+				"pltemgrun",
+				"frontend/web/client_src/scr/planning-template/grunt.js"
+			],
+			[
+				"platemhtml",
+				"frontend/web/messages/general/planning_template_tab.html"
+			],
+			[
+				"pplanningjs",
+				"frontend/web/client_src/scr/planning2/js/pp-planning.js"
+			],
+			[
+				"planningtemplatelisttmpl",
+				"frontend/web/client_src/scr/planning-template/template/planningTemplateListTmpl.html"
+			],
+			[
+				"planningtoolbar.h",
+				"frontend/web/client_src/scr/planning2/templates/planningToolbar.hbs"
+			],
+			[
+				"plannigtol",
+				"frontend/web/client_src/scr/planning2/js/planning-toolbar.js"
+			],
+			[
+				"hubcards",
+				"frontend/web/client_src/scr/hub/js/hub.module.cards.js"
+			],
+			[
+				"datcarded",
+				"frontend/web/client_src/scr/planning2/js/views/widgets/details-cardeditor.js"
+			],
+			[
+				"commongrunt",
+				"frontend/web/client_src/scr/common/grunt.js"
+			],
+			[
+				"ptype",
+				"frontend/web/client_src/scr/common/js/pp-typeahead.js"
+			],
+			[
+				"ppty",
+				"frontend/web/client_src/scr/common/js/pp-typeahead.js"
+			],
+			[
+				"actde",
+				"frontend/web/client_src/scr/planning2/js/views/activityDetailsPane.js"
+			],
+			[
+				"placon",
+				"frontend/web/client_src/scr/planning2/js/control/planning-control-fn.js"
+			],
+			[
+				"pptype",
+				"frontend/web/client_src/scr/common/js/pp-typeahead.js"
+			],
+			[
+				"main.js",
+				"frontend/web/client_src/scr/common/js/main.js"
+			],
+			[
+				"decaredit",
+				"frontend/web/client_src/scr/planning2/js/views/widgets/details-cardeditor.js"
+			],
+			[
+				"te/details/details_view.html",
+				"frontend/web/client_src/scr/documents/template/details/details_view.html"
+			],
+			[
+				"cardedit",
+				"frontend/web/client_src/scr/planning2/js/views/widgets/details-cardeditor.js"
+			],
+			[
+				"caredi",
+				"frontend/web/client_src/scr/planning2/templates/cardEditor.hbs"
+			],
+			[
+				"planning2index",
+				"frontend/web/client_src/scr/planning2/test/index.html"
+			],
+			[
+				"overhe",
+				"frontend/web/messages/general/overview_header.html"
+			],
+			[
+				"hub.js",
+				"frontend/web/client_src/scr/hub/js/hub.js"
+			],
+			[
+				"hubac2",
+				"frontend/web/client_src/scr/hub/js/hub.module.activities2.js"
+			],
+			[
+				"main",
+				"frontend/web/client_src/scr/common/js/main.js"
+			],
+			[
+				"pltime",
+				"frontend/web/client_src/scr/planning2/js/planning-timeline.js"
+			],
+			[
+				"mainjs",
+				"frontend/web/client_src/scr/common/js/main.js"
+			],
+			[
+				"ppla",
+				"frontend/web/client_src/scr/planning2/js/pp-planning.js"
+			],
+			[
+				"overv",
+				"frontend/web/messages/general/overview_header.html"
+			],
+			[
+				"grunt.s",
+				"frontend/web/client_src/scr/planning2/grunt.js"
+			],
+			[
+				"overhead",
+				"frontend/web/messages/general/overview_header.html"
+			],
+			[
+				"grunt",
+				"frontend/web/client_src/scr/planning2/grunt.js"
+			],
+			[
+				"ppplann",
+				"frontend/web/client_src/scr/planning2/js/pp-planning.js"
+			],
+			[
+				"act2",
+				"frontend/web/client_src/scr/hub/js/hub.module.activities2.js"
+			],
+			[
+				"hubres",
+				"frontend/web/client_src/scr/hub/js/hub.module.resources.js"
+			],
+			[
+				"hubmodel",
+				"frontend/web/client_src/scr/hub/js/hub.model.js"
+			],
+			[
+				"decardl",
+				"frontend/web/client_src/scr/planning2/js/views/widgets/details-cardlist.js"
+			],
+			[
+				"hubjs",
+				"frontend/web/client_src/scr/hub/js/hub.js"
+			],
+			[
+				"hubresour",
+				"frontend/web/client_src/scr/hub/js/hub.module.resources.js"
+			],
+			[
+				"hubbase",
+				"frontend/web/client_src/scr/hub/js/hub.module.base.js"
+			],
+			[
+				"hubresources",
+				"frontend/web/client_src/scr/hub/js/hub.module.resources.js"
+			],
+			[
+				"pptypea",
+				"frontend/web/client_src/scr/common/js/pp-typeahead.js"
+			],
+			[
+				"carditem",
+				"frontend/web/client_src/scr/planning2/templates/cardItem.hbs"
+			],
+			[
+				"detevent",
+				"frontend/web/client_src/scr/documents/js/detailsview/details-events.js"
+			],
+			[
+				"decardli",
+				"frontend/web/client_src/scr/planning2/js/views/widgets/details-cardlist.js"
+			],
+			[
+				"hubmin",
+				"frontend/web/client_src/scr/hub/js/hub.module.cards.mini.js"
+			],
+			[
+				"detailsevent",
+				"frontend/web/client_src/scr/detailswidget/js/details-events.js"
+			],
+			[
+				"gruntjs",
+				"frontend/web/client_src/scr/actions/grunt.js"
+			],
+			[
+				"grunt.js",
+				"frontend/web/client_src/scr/conversations/grunt.js"
+			],
+			[
+				"hubmini",
+				"frontend/web/client_src/scr/hub/js/hub.module.cards.mini.js"
+			],
+			[
+				"searc",
+				"frontend/web/client_src/scr/utils/searchbox.js"
+			],
+			[
+				"commbut",
+				"frontend/web/client_src/scr/common/less/common-buttons.less"
+			],
+			[
+				"hubac",
+				"frontend/web/client_src/scr/hub/js/hub.module.activities.js"
+			],
+			[
+				"planut",
+				"frontend/web/client_src/scr/planning2/js/planning-util.js"
+			],
+			[
+				"actdepane",
+				"frontend/web/client_src/scr/planning2/js/views/activityDetailsPane.js"
+			],
+			[
+				"detaevent",
+				"frontend/web/client_src/scr/detailswidget/js/details-events.js"
+			],
+			[
+				"pptypeah",
+				"frontend/web/client_src/scr/common/js/pp-typeahead.js"
+			],
+			[
+				"commonmain.js",
+				"frontend/web/client_src/scr/common/js/main.js"
+			],
+			[
+				"plan2grunt",
+				"frontend/web/client_src/scr/planning2/grunt.js"
+			],
+			[
+				"bsut",
+				"core/src/bs_utils.py"
+			],
+			[
+				"actioninit",
+				"frontend/web/client_src/scr/actions/js/actions.init.js"
+			],
+			[
+				"ajax",
+				"frontend/web/client_src/scr/ajaxTabs.js"
+			],
+			[
+				"acstar",
+				"frontend/web/messages/general/activities_start.html"
+			],
+			[
+				"actstart",
+				"frontend/web/messages/general/activities_start.html"
+			],
+			[
+				"overvihe",
+				"frontend/web/messages/general/overview_header.html"
+			],
+			[
+				"planning-rou",
+				"frontend/web/client_src/scr/planning2/js/planning-router.js"
+			],
+			[
+				"carresultite",
+				"frontend/web/client_src/scr/planning2/templates/cardEditorResultItem.hbs"
+			],
+			[
+				"detcarded",
+				"frontend/web/client_src/scr/planning2/js/views/widgets/details-cardeditor.js"
+			],
+			[
+				"detcard",
+				"frontend/web/client_src/scr/planning2/js/views/widgets/details-cardlist.js"
+			],
+			[
+				"acdepanejs",
+				"frontend/web/client_src/scr/planning2/js/views/activityDetailsPane.js"
+			],
+			[
+				"lookjs",
+				"frontend/web/client_src/scr/planning/js/lookahead.js"
+			],
+			[
+				"planingjs",
+				"frontend/web/client_src/scr/planning/js/planning.js"
+			],
+			[
+				"acdetp",
+				"frontend/web/client_src/scr/planning2/templates/activityDetailsPane.hbs"
+			],
+			[
+				"searchbo",
+				"frontend/web/client_src/scr/utils/searchbox.js"
+			],
+			[
+				"comgrunt",
+				"frontend/web/client_src/scr/common/grunt.js"
+			],
+			[
+				"carded",
+				"frontend/web/client_src/scr/planning2/templates/cardEditor.hbs"
+			],
+			[
+				"datepicker",
+				"frontend/web/client_src/scr/common/js/pp-datepicker.js"
+			],
+			[
+				"acdepane",
+				"frontend/web/client_src/scr/planning2/js/views/activityDetailsPane.js"
+			],
+			[
+				"actdeta",
+				"frontend/web/client_src/scr/planning2/templates/activityDetailsDescription.hbs"
+			],
+			[
+				"plca",
+				"frontend/web/client_src/scr/planning2/js/planning-calendar.js"
+			],
+			[
+				"hubboard",
+				"frontend/web/client_src/scr/hub/js/hub.module.boards.js"
+			],
+			[
+				"projectsteps",
+				"frontend/web/client_src/scr/overview_header/dist/projectsteps.js"
+			],
+			[
+				"planningjs",
+				"frontend/web/client_src/scr/planning/js/planning.js"
+			],
+			[
+				"labjs",
+				"frontend/web/client_src/scr/LAB.min.js"
+			],
+			[
+				"copyboard",
+				"frontend/web/client_src/scr/actions/js/views/widgets/details-copyboard.js"
+			],
+			[
+				"actions/boarset",
+				"frontend/web/client_src/scr/actions/js/views/boardSettingsDropdownView.js"
+			],
+			[
+				"demenu",
+				"frontend/web/client_src/scr/detailswidget/js/details-menu.js"
+			],
+			[
+				"cardpre",
+				"frontend/web/client_src/scr/planning2/templates/cardPreview.hbs"
+			],
+			[
+				"calendar.less",
+				"frontend/web/client_src/scr/planning2/less/planning-calendar.less"
+			],
+			[
+				"decardlist",
+				"frontend/web/client_src/scr/planning2/js/views/widgets/details-cardlist.js"
+			],
+			[
+				"plcal",
+				"frontend/web/client_src/scr/planning2/js/planning-calendar.js"
+			],
+			[
+				"pplanni",
+				"frontend/web/client_src/scr/planning2/js/pp-planning.js"
+			],
+			[
+				"actstar",
+				"frontend/web/messages/general/activities_start.html"
+			],
+			[
+				"ajaxta",
+				"frontend/web/client_src/scr/ajaxTabs.js"
+			],
+			[
+				"generaldropdownsectiontmpl",
+				"frontend/web/client_src/scr/detailswidget/template/generalDropDownSectionTmpl.html"
+			],
+			[
+				"cardlist",
+				"frontend/web/client_src/scr/planning2/js/views/widgets/details-cardlist.js"
+			],
+			[
+				"carlisthb",
+				"frontend/web/client_src/scr/planning2/templates/cardList.hbs"
+			],
+			[
+				"cardprev",
+				"frontend/web/client_src/scr/planning2/templates/cardPreview.hbs"
+			],
+			[
+				"plancal",
+				"frontend/web/client_src/scr/planning2/js/planning-calendar.js"
+			],
+			[
+				"hubboa",
+				"frontend/web/client_src/scr/hub/js/hub.module.boards.js"
+			],
+			[
+				"",
+				"frontend/web/client_src/scr/hub/js/hub.module.activities2.js"
+			],
+			[
+				"hubuser",
+				"frontend/web/client_src/scr/hub/js/hub.module.userstore.js"
+			],
+			[
+				"hbboards",
+				"frontend/web/client_src/scr/hub/js/hub.module.boards.js"
+			],
+			[
+				"caleitem",
+				"frontend/web/client_src/scr/planning2/templates/calendarItem.hbs"
+			],
+			[
+				"planlistpa",
+				"frontend/web/client_src/scr/planning2/js/planning-listpane.js"
+			],
+			[
+				"decateg",
+				"frontend/web/client_src/scr/detailswidget/js/details-category.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/westmark/Documents/projects/unikum/bootstrap/unikum-bootstrap.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true
+}
